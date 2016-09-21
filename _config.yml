@@ -21,7 +21,7 @@ defaults:
 locale                   : "en"
 title                    : "A Blog By Zack"
 title_separator          : "-"
-name                     : "Zachary Smith"
+name                     : "Zachary Thomas Smith"
 description              : "Rare musings and reposts."
 url                      : "https://zacharythomas.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -101,7 +101,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : inpursuitofswag
+  twitter          : ZacharyThomas__
   vine             :
   weibo            :
   xing             :
