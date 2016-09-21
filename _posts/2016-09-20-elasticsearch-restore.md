@@ -1,9 +1,8 @@
 ---
 title: Syncing Elasticsearch Clusters via Snapshot and Restore
 excerpt: Setting up elasticsearch clusters can be difficult. Use the restore API to maintain data consistency
-image:
-    feature: logo-elastic-1000x343.jpg
-    thumb: cluster-tooltip.jpg
+header: 
+    image: logo-elastic-1000x343.jpg
 ---
 
 Hello world! I recently got the opportunity to write a blog for my work 
